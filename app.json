@@ -1,6 +1,6 @@
 {
   "name": "TelegramCloneBotMMversion",
-  "description": "မူရင်းSource https://github.com/jagrit007, MMvsersionModify by https://t.me/drivetalk admin Ko KZT",
+  "description": "မူရင်းSource https://github.com/jagrit007, MMvsersionModify by https://t.me/DoubleT2245",
   "logo": "",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "google drive",
     "clone bot"
   ],
-  "repository": "https://github.com/publicmm9/TgCloneMyanmarSa",
-  "website":   "https://github.com/publicmm9/TgCloneMyanmarSa",
-  "success_url": "https://t.me/",
+  "repository": "https://github.com/thantzinmyothant1/TgClone-Sa-Ex",
+  "website":   "https://github.com/thantzinmyothant1/TgClone-Sa-Ex",
+  "success_url": "https://t.me/DoubleT2245",
   "env": {
     "BOT_TOKEN": {
       "description": "t.me/BotFather မှ ရသော bot token ထည့်ပါ။",
