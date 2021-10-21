@@ -4,9 +4,9 @@ from distutils.util import strtobool as stb
 
 # --------------------------------------
 BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = "185cdlMaJe8GPmOPyC1iaXhfnVhWKXHV8"
+GDRIVE_FOLDER_ID = "0APVa7TZYgp6kUk9PVA"
 # Default folder id.
-OWNER_ID = 123455673
+OWNER_ID = 841100316
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = []
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
