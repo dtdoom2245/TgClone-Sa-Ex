@@ -20,6 +20,11 @@
     "BOT_TOKEN": {
       "description": "t.me/BotFather မှ ရသော bot token ထည့်ပါ။",
       "value": "",
+      "required": true  
+      },
+    "GDRIVE_FOLDER_ID": {
+      "description": "Google Drive Folder ID to Clone to. (Dont paste a link)",
+      "value": "",
       "required": true
     },
     "OWNER_ID": {
