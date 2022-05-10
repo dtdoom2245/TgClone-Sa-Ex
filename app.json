@@ -12,6 +12,11 @@
   "website":   "https://github.com/thantzinmyothant1/TgClone-Sa-Ex",
   "success_url": "https://t.me/DoubleT2245",
   "env": {
+    "AUTHORISED_USERS": {
+      "description": "Telegram Group ထဲကို @MissRose_bot  ကို add ပြီး /id ရိုက်လိုက် -100 နဲ့စတာက gp id",
+      "value": "[]",
+      "required": false
+    },
     "BOT_TOKEN": {
       "description": "t.me/BotFather မှ ရသော bot token ထည့်ပါ။",
       "value": "",
