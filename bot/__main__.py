@@ -21,7 +21,7 @@ def start(update, context):
 
 @run_async
 def helper(update, context):
-    sendMessage("မင်္ဂလာပါ ဒီ 🤖 Bot 🤖 လေးမှာအသုံးပြုလိုရတဲ့ commands များကိုအောက်မှာလေ့လာနိုင်ပါတယ်..အရင်ဆုံး doubletclone@googlegroups.com ကို ကူးမဲ့ Drive ရယ် လက်ခံမည့် Drive မှာ content manager အပ်ထားပေးပါ။\n\n" \
+    sendMessage("မင်္ဂလာပါ ဒီ 🤖 Bot 🤖 လေးမှာအသုံးပြုလိုရတဲ့ commands များကိုအောက်မှာလေ့လာနိုင်ပါတယ်..အရင်ဆုံး dtnewmirror@googlegroups.com ကို ကူးမဲ့ Drive ရယ် လက်ခံမည့် Drive မှာ content manager အပ်ထားပေးပါ။\n\n" \
         "*Usage:* `/clone <link> [DESTINATION_ID]`\n*Example:* \n1. `/clone https://drive.google.com/drive/u/1/folders/0AO-ISIXXXXXXXXXXXX`\n2. `/clone 0AO-ISIXXXXXXXXXXXX`" \
             "\n*DESTIONATION_ID* is optional. It can be either link or ID to where you wish to store a particular clone." \
             "\n\nYou can also *ignore folders* from clone process by doing the following:\n" \
